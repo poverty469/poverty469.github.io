@@ -1,0 +1,8 @@
+Github Deploy
+
+Hardcode Access Keys
+	AccessToken in MbMap
+	Style in mapSupport
+Add publicPath to vue config
+	/application-title/
+Add publicPath to router paths
